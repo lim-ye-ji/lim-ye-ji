@@ -1,5 +1,9 @@
-### Hi there 👋
-#### 👩🏻‍💻 AI Engineer, Back-end Engineer
+# YEJI 👩🏻‍💻
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:limyeji0505@gmail.com)
+
+#### Hi there 👋 
+I'm learning <b>DL/ML</b> and <b>data analysis</b> using python, </br>
+and am currently working on an <b>AI project</b>.
 
 <!--
 **lim-ye-ji/lim-ye-ji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,28 +20,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+</br>
 
-### 🛠️ Stacks
-#### Languages
-<table border = 'none'>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Python-3776AB?style='plastic'&logo=Python&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Java-007396?style='plastic'&logo=Java&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/MSSQL-CC2927?style='plastic'&logo=Microsoft SQL Server&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style='plastic'&logo=JavaScript&logoColor=white"/></td>
-  </tr>
-<table>
-
-#### Tools
-<table border = 0>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Anaconda-44A833?style='plastic'&logo=Anaconda&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Anaconda-44A833?style='plastic'&logo=Anaconda&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Anaconda-44A833?style='plastic'&logo=Anaconda&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Anaconda-44A833?style='plastic'&logo=Anaconda&logoColor=white"/></td>
-  </tr>
-</table>
-    
-    
-    
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-#3776AB?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+#### 🛠️ Stacks
+![Python](https://img.shields.io/badge/Python-3776AB?style='plastic'&logo=Python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style='plastic'&logo=Java&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927.svg?style='plastic'&logo=microsoftsqlserver&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style='plastic'&logo=JavaScript&logoColor=white)
