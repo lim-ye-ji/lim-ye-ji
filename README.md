@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### 🛠️ Stacks
 #### Languages
-<table border = 0>
+<table border = none>
   <tr>
     <td><img src="https://img.shields.io/badge/Python-3776AB?style='plastic'&logo=Python&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/Java-007396?style='plastic'&logo=Java&logoColor=white"/></td>
@@ -27,6 +27,7 @@ Here are some ideas to get you started:
     <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style='plastic'&logo=JavaScript&logoColor=white"/></td>
   </tr>
 <table>
+
 #### Tools
 <table border = 0>
   <tr>
