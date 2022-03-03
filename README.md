@@ -1,9 +1,8 @@
-# YEJI 👩🏻‍💻
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:limyeji0505@gmail.com)
+# LimYeJi [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:limyeji0505@gmail.com)
 
-#### Hi there 👋 
-I'm learning <b>DL/ML</b> and <b>data analysis</b> using python, </br>
-and am currently working on an <b>AI project</b>.
+<b>Hi there</b> 👋 I'm learning <b>DL/ML</b> and <b>data analysis</b> using python, </br>
+and am currently working on an <b>AI project</b> 👩🏻‍💻
+
 
 <!--
 **lim-ye-ji/lim-ye-ji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
