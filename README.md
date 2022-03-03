@@ -16,5 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/Python-'black'?style='plastic'&logo=Python&logoColor='3776AB'"/>
+<img src="https://img.shields.io/badge/Java-'black'?style='plastic'&logo=Java&logoColor='007396'"/>
+<img src="https://img.shields.io/badge/Python-'black'?style='plastic'&logo=Python&logoColor='3776AB'"/>
+<img src="https://img.shields.io/badge/Python-'black'?style='plastic'&logo=Python&logoColor='3776AB'"/>
 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Python-#3776AB?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
