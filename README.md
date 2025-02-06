@@ -1,7 +1,5 @@
 # LimYeJi [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:limyeji0505@gmail.com)
-
-<b>Hi there</b> 👋 I'm learning <b>DL/ML</b> and <b>data analysis</b> using python, </br>
-and am currently working on an <b>AI project</b> 👩🏻‍💻
+ 👩🏻‍💻
 
 
 <!--
